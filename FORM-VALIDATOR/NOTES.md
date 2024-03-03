@@ -44,4 +44,4 @@ for the 'class' we will be using it in our styling with CSS
 
 ### Shortcuts to edit in HTML
 
-we search a word using shift using the arrows and then we end selection with (contrl + d) to select between the search
+we search a word using shift slecting with the arrows and then we end selection with (contrl + d) to select between the search
